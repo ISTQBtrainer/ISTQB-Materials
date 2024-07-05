@@ -1,5 +1,7 @@
 Hello!
 
-This repository is dedicated to professionals interrested into preparing for attending ISTQB exams.
+This repository is dedicated to professionals interested into attending ISTQB exams.
 
 Good luck with your preparation and exam!
+
+Your ISTQB trainer 🖖
